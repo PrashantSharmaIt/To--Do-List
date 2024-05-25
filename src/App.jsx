@@ -1,10 +1,11 @@
-import toDoList from "./toDoList"
+import React from "react"
+import ToDoList from "./ToDoList"
+
+
 function App() {
- return(
-  <>
   
-  </>
- )
+  return(<ToDoList/>)
+
 }
 
 export default App

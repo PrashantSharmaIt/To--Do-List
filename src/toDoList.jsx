@@ -1,13 +1,12 @@
-import React,{useState} from "react"
-
-function toDoList(){
-  const [tasks , setTasks] = useState([]);
+import React, { useState } from "react"
+function ToDoList(){
+  const [tasks , setTasks] = useState(['EatBreakfast' , 'Take a Shower' , 'Walk the dog']);
 
   const [newTask , setNewTask] = useState();
 
 
   function handleInputChange(event){
-    setNewTask(event.taget.value);
+    setNewTask(event.target.value);
   }
 
   function addTask(){
@@ -28,6 +27,7 @@ function toDoList(){
   return (
     <div className="to-do-list">
       <h1> To-Do-List</h1>
+      
 
       <div>
         <input 
@@ -70,7 +70,7 @@ function toDoList(){
       </ol>
 
     </div>
-  )
+  );
 
 }
-export default toDoList
+export default ToDoList
