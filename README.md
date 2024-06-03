@@ -10,13 +10,11 @@ Simple Interface: Intuitive user interface for seamless note management.
 Upper and Down Function: To set the task o our own prefrences.
 
 # Technology Used
+React   
+CSS    
+HTML     
+JavaScript 
 
-<p align="center">
-  <b style="font-size: 24px;">React</b>&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;
-  <b style="font-size: 24px;">CSS</b>&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;
-  <b style="font-size: 24px;">HTML</b>&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;
-  <b style="font-size: 24px;">JavaScript</b>
-</p>
 # Installation and Usage
 
 1. **Clone the repository:**
