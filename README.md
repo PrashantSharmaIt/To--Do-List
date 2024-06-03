@@ -16,8 +16,11 @@ HTML
 JavaScript    
 
 # Installation and Usage
-1. Clone the repository.     
-   git clone <repository-url>      
+
+1. **Clone the repository:**
+   ```sh
+   git clone <repository-url>
+
 2.Navigate into the project directory.   
    cd To-Do-List      
 3.Install dependencies using npm.     
@@ -25,5 +28,5 @@ JavaScript
 4.Start the development server.           
    npm run dev             
 
-5.ccess the app in your browser at http://localhost:5173.
+5.Access the app in your browser at http://localhost:5173.
 
